@@ -1,7 +1,7 @@
 # Backend component for the "ESports-UCL" CAS service
 
 This backend component is a Spring Boot project, and it was used in the ['SSO and SLO for Spring Boot and Angular applications with CAS'](https://debbabi-nader.github.io/cas-spring-angular/index.html) blog post.
-Its frontend component can be found in the [esports-ucl-frontend](https://github.com/debbabi-nader/esports-ucl-frontend) repository.
+Its associated frontend component can be found in the [esports-ucl-frontend](https://github.com/debbabi-nader/esports-ucl-frontend) repository.
 
 ## Requirements
 
